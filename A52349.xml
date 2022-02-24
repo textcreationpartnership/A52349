@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A journal of the most remarkable occurrences that happened between His Majesties army and the forces under the command of Mareschal de Schomberg in Ireland from the twelfth of August to the 23th of October, 1689 faithfully collected by James Nihell, Esq; Under Secretary to the R.H. the Earl of Melfort, His Majesties P.S. of S.</title>
+            <author>Nihell, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52349</idno>
+            <idno type="STC">Wing N1157B</idno>
+            <idno type="STC">ESTC R41435</idno>
+            <idno type="EEBO-CITATION">31355345</idno>
+            <idno type="OCLC">ocm 31355345</idno>
+            <idno type="VID">110412</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110412)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A journal of the most remarkable occurrences that happened between His Majesties army and the forces under the command of Mareschal de Schomberg in Ireland from the twelfth of August to the 23th of October, 1689 faithfully collected by James Nihell, Esq; Under Secretary to the R.H. the Earl of Melfort, His Majesties P.S. of S.</title>
+                  <author>Nihell, James.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for alderman James Malone ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Imprimatur, Will. Talbott" -- p. 8.</note>
+                  <note>Imperfect: stained, and tightly bound, with print show-through and slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Campaigns.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  History, Military --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110412:1" rendition="simple:additions"/>
+            <p>A JOURNAL Of The Moſt Remarkable Occurrences that Happened BETWEEN His Majeſties Army And The FORCES Under the Command of Mareſchal de SCHOMBERG IN IRELAND, From the Twelfth of Auguſt to the 23th of October, 1689.</p>
+            <p>Faithfully collected by <hi>James Nihell</hi> 
+               <abbr>Eſq</abbr> Under Secretary to the <hi>R. H.</hi> the Earl of <hi>Melfort,</hi> His Majeſties <hi>P. S.</hi> of <hi>S.</hi>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed for Alderman James Malone, Bookſeller in Skinner-Row</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110412:2"/>
+            <pb n="3" facs="tcp:110412:2" rendition="simple:additions"/>
+            <head>A Journal of the Moſt Remarkable Occurrences that hapned between His Majeſties Army; And the Forces under the Command of Mareſchal de Schomberg, &amp;c.</head>
+            <p>ON the 12th of <hi>Auguſt</hi> 1689 a numerous Fleet ap<g ref="char:EOLhyphen"/>peared off the Coast of <hi>Donaghadee</hi> in the County of <hi>Down,</hi> out of which two hundred men made that Night a deſcent on the land, and intrenched themſelves.</p>
+            <p>On the 13th <hi>Mareſchal de Scomberg</hi> who Commanded the Forces on Board debarquing his men, <hi>Horſes</hi> and <hi>Train</hi> of <hi>Artillery,</hi> ſet foot on shoar without oppoſition.</p>
+            <p>On the 14th he ordered the 200 men that first landed to March to <hi>Belfaſt,</hi> and the next day he followed in Perſon with the groſs of the Army, and refresh'd himſelf there till the 19th.</p>
+            <p>On the 19th he invests <hi>Carrigfergus</hi> and having Sum<g ref="char:EOLhyphen"/>mond the <hi>Garriſon</hi> to ſurrender in vain though with offers of fair and honourable conditions, He drew out his lines and the next day played upon the town from four Batte<g ref="char:EOLhyphen"/>ries of Cannon, and three of <hi>Mortar pieces,</hi> beſides all the Gunns of the <hi>Navy</hi> to which the place stood expoſed with in distance, whilst he made his approaches by land, where he found the works, or walls most acceſſible, yet tho' he with <hi>Bombs</hi> (of which he threw in a thouſand) had lay'd all the buildings in <hi>Aſhes;</hi> and tho' the Garriſon could not reaſonably hope for any ſuccour, they kept it nine days, and even then reduced to one Barrel of <hi>powder</hi> made Sol<g ref="char:EOLhyphen"/>dier-like Terms, marching out with their Arms, Colours flying, ball in mouth, and other uſual ceremonies of War, to be attended by a convoy untill they were within three mile of the <hi>Newry;</hi> yet the Articles (tho' ſigned by <hi>Scomberg</hi>)
+<pb n="4" facs="tcp:110412:3"/>
+himſelf, were nevertheleſs barbarouſly violated by the ſol<g ref="char:EOLhyphen"/>diers who without regard to age, ſex or Quallity diſarmed and stript the Towns people, forceing even women to Run the Gantlet stark naked.</p>
+            <p>On the 26th of <hi>Auguſt</hi> the King came from <hi>Dublin</hi> to <hi>Tre<g ref="char:EOLhyphen"/>dath</hi> attended with 200 of his Guards, and gentlmen Volon<g ref="char:EOLhyphen"/>teers on Horſ-back, and found there no more then ſeven Regiments of Foot, and ſome few <hi>Troops</hi> of <hi>Horſe;</hi> a strong Party of the Cavalry being commanded out as Far as the <hi>Newry,</hi> under the Duke of <hi>Berwick.</hi>
+            </p>
+            <p>The <hi>ſixth</hi> of <hi>ſeptember</hi> His Grace to hinder the Enemies advancement upon him, and render his march to the <hi>Newry</hi> incommodious, and difficult broke up all the Cauſ<g ref="char:EOLhyphen"/>wayes, and other defile's thro' which he must paſs, and to make all ſecure burnt even the Town, and retyr'd to <hi>Dun<g ref="char:EOLhyphen"/>dalk,</hi> where he found <hi>Monſieur D'esco</hi> with two Companies of <hi>Foot,</hi> and a <hi>Troop</hi> of <hi>Horſe</hi> ſent out from the <hi>Army</hi> to bring up his Rear for their <hi>Forces</hi> united were very inſufficient to make head against the enemy, who then preſſed their <hi>March;</hi> ſo they all fac'd about, and drew off together.</p>
+            <p>The King now in <hi>Tredath</hi> was informed by ſome <hi>Iriſh</hi> and one <hi>French</hi> Deſerter, that <hi>Schomberg</hi>'s Troops were ve<g ref="char:EOLhyphen"/>ry much diſeaſed, and already in want of proviſions.</p>
+            <p>The 13th all His Majeſties Forces were come down to the Camp near <hi>Tredath.</hi>
+            </p>
+            <p>On the 14th the King marched the Army from <hi>Tredath</hi> to <hi>Atherdee</hi> about 8 <hi>Iriſh</hi> miles, and there met with intel<g ref="char:EOLhyphen"/>ligence that about 12 Sail of the Enemies Fleet were the day before up with the <hi>Skerries,</hi> and fired many Guns, which drew the Militia and people in ſuch numbers down to the Shoar, that they durſt not venture upon it, but bore away large to the <hi>Southward,</hi> where they plyed too and agen betwixt <hi>Hoath</hi> and <hi>Bullock,</hi> with deſign as it is thought, to animate the malignant Party (if any ſuch were in <hi>Dublin</hi>) to riſe. But matters were ſo well ſecured there by the conduct and vigilance of Collonel <hi>Symon Lut<g ref="char:EOLhyphen"/>trell</hi> the Governor, that diſappointed of all expectations, they vainly ſtood off to Sea, and were ſoon out of ſight.</p>
+            <p>On the 16th His Majeſty at the firſt appearance of day marched the Horſe and Dragoons from <hi>Atherdee</hi> to <hi>Allardſ<g ref="char:EOLhyphen"/>town</hi>
+               <pb n="5" facs="tcp:110412:3" rendition="simple:additions"/>
+near <hi>Affayn-Bridge</hi> about three miles ſhort of <hi>Dun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lk,</hi> of which he poſſeſſed himſelf about twelve. By <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht following his Foot-Guards came up to him, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Body of the Infantry by noon the next day. Having <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt fled the Bridge, he placed the Guards on the further <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de of the River, and ſent Parties out to diſcover the E<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emy. Towards the evening ſix Troops of the Cavalry <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade up to a ſmall advanced Party of fifty Horſe, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome few Volontiers that attended His Majeſties Army, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho nevertheleſs receiving the Enemies Fire, immediate<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> charged, and put them to flight.</p>
+            <p>On the 18th the whole Camp was formed with as much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egularity and advantage as the ground would admit of. The King in his perſon having travers'd it all over, after <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewing the Intrenchments, and poſture of the enemy.</p>
+            <p>On the 19th ſeveral Priſoners were taken, and ſome <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſerters came with intelligence that <hi>Schomberg</hi> had ſet all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands to work to ſecure himſelf by fortifying <hi>Dundalk,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſeem'd rather to prepare againſt a Siege than a Bat<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l</p>
+            <p>On the 20th the King drew out his Army, and march<g ref="char:EOLhyphen"/>ing in the Head of the firſt and ſecond Line, within leſs than Cannon-ſhot of the enemy, He immediately put them in order of Battel (according to a method agreed upon) with wonderful expedition and silence. The Lines <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tended themſelves ftom <hi>South-east</hi> to <hi>North-weſt</hi> along a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ge of Hillocks that front the Town; the ſecond Line ſhewed it ſelf between the intervals of the firſt. In this po<g ref="char:EOLhyphen"/>ſture they ſtood for three hours, the Souldiers tranſported with Courage, by the Preſence, and great Example of their King in the Head of them, could not forbear by ſhout<g ref="char:EOLhyphen"/>ing and other demonſtrations of Joy. to dare, and chal<g ref="char:EOLhyphen"/>lenge the Invaders; who nevertheleſs could not be pro<g ref="char:EOLhyphen"/>voked, nor invited hy any means, out of their fortifica<g ref="char:EOLhyphen"/>tions: And therefore the King, diſappointed in his hopes of deciding the War by a Battel, commanded his <hi>Troops</hi> juſt under the <hi>Mareſchals</hi> view, to march easily back to their Camp again, His Majeſty Himſelf remaining in the Rear of all His Army until He ſaw the laſt Souldier drawn off. Seven Priſoners were that night brought in by
+<pb n="6" facs="tcp:110412:4" rendition="simple:additions"/>
+a detacht party of <hi>Dragoones from</hi> a Village called <hi>Haggard<g ref="char:EOLhyphen"/>ſtown</hi> on the ſea side The Captains <hi>O Neil</hi> and <hi>Murphy</hi> likewiſe with 50 <hi>Foot,</hi> Surprizing a party of 80 <hi>Dragoones</hi> behind a Mountain that cover'd the Enemy killed <hi>two</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the place (mong whom ſome French <hi>Hugonets</hi> refuſed Quarter) <hi>took</hi> six priſoners the reſt eſcaping by Flight.</p>
+            <p>On the 21th the King gave Orders for the Fortifying <hi>Atherdee</hi> with Ditches, Ramparts, and other Neceſſary Works; a retrenchment was likwiſe caſt up before the left wing of the firſt line.</p>
+            <p>On the 24th the King viewed the Country on all ſides reſolving when he found it neceſſary, or convenient to dislodge from the ground he then ſtood encamped on, and to pitch his Tents on the Edges of ſmall <hi>Hyllhocks</hi> that ariſe between the Rivers of <hi>Mapaſtown,</hi> and <hi>Atherdee,</hi> and ther<g ref="char:EOLhyphen"/>fore gave general Orders for preſerving the Forrage in all parts within Command of his Army.</p>
+            <p>On the 26th a Commanded party of <hi>Horſe-dragoones</hi> with 35 Companies of <hi>Granadiers,</hi> ſet fire to all the <hi>Forrage</hi> and <hi>Corn,</hi> on the other ſide of the <hi>Lurgan</hi> River for 3 miles a<g ref="char:EOLhyphen"/>long the ſea coaſt, and under the Enemies Noſe who ne<g ref="char:EOLhyphen"/>vertheleſs made a faint Sally, but were eaſily forc'd back to their Trenches again.</p>
+            <p>On the 28th towards the evening the discharge of the enemies <hi>Artillery</hi> three times purſued with as many <hi>Volleys</hi> of ſmall ſhot, and huzza's amused the Kings <hi>Camp</hi> for ſome wile untill diſabuſed the next day by a deſerter who ſaid all that noiſe was in celebration of a great victory ob<g ref="char:EOLhyphen"/>teined by thoſe of <hi>Iniskillen</hi> againk the Kings party at <hi>Sli<g ref="char:EOLhyphen"/>go;</hi> but this mighty Action upon better intelligence pro<g ref="char:EOLhyphen"/>ved a Skirmiſh between a ſmall band of that County <hi>Mil<g ref="char:EOLhyphen"/>litia</hi> and a Troop of Rebells, wherein 3 of the Loyaliſts fell, and that number twice told of the enemy.</p>
+            <p>On the 30th an Ensigne from mac <hi>Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y More</hi>'s Regi<g ref="char:EOLhyphen"/>ment, returned to his Majeſties Camp with advice that 3 ſhips whereon were imbarqued <hi>Collonel Villiers Troop horſe</hi> and men were newly caſt away, that 500 French officers and Soldiers ſuspected to be <hi>Catholicks,</hi> and well wiſhers to his Majeſties cauſe were ſent a ſhip-board their place of confinment that ſeven Frenchmen, and a Captain were
+<pb n="7" facs="tcp:110412:4" rendition="simple:additions"/>
+Hanged upon ſuspition of affecting the Kings party. That Four-ſcore a day at the leaſt were ſent from the Ene<g ref="char:EOLhyphen"/>mies Camp to the Hoſpital, and that all their Horſes were turned out to Graſs for want of <hi>Hay</hi> and other ne<g ref="char:EOLhyphen"/>ceſſarie Forrage.</p>
+            <p>On the 31th <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Regiments of Foot were Commanded to <hi>Sligo,</hi> and the parts on all sides adjacent to it to preſerve the inhabitants under his Majeſties Obedience, and check the excursions from <hi>Inniskillen.</hi>
+            </p>
+            <p>On the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>October</hi> A party of 150 <hi>Foot</hi> were de<g ref="char:EOLhyphen"/>tached under the command of Lieutenant Coll. <hi>Stapylton</hi> and Captain <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh Macnemarra</hi> to Relieve and bring off the 500 French that <hi>Schomberg</hi> had cauſed to be ſtript and car<g ref="char:EOLhyphen"/>ried by water to <hi>Carlingford;</hi> ſuspecting they had a design of changeing their party; The march was difficult and hazardous, For they could not avoid the <hi>Engliſh</hi> camp, but by a detour of at leaſt 30 miles, and that through almoſt impaſſable Mountains, nevertheleſs they Marched cheer<g ref="char:EOLhyphen"/>fully ouer them to a vale within six miles of <hi>Carlingford,</hi> where making a hault to fix their Arms and cover their Primeing againſt a ſhower of rain that hung over their heads, a party of the Enemy came upon them, and being demanded whom they were For, they anſwered they were For King <hi>William,</hi> ſo are we ſaid <hi>ſtapylton</hi> with purpoſe to take his oppertunity of Surprizeing them, but the Zealous Souldiers ignorant of his Meaning declar'd loudly they were <hi>For</hi> King <hi>James</hi> and made <hi>good</hi> their words with a <hi>Volley,</hi> 14 they killed on the ſpot Seized all their Arms and made Eight Priſoners without Receiveing a wound.</p>
+            <p>On the 5th <hi>of October (Forrage</hi> becoming now ſcarſe) the King thought fit to return to <hi>Atherdee,</hi> and on the 6th ve<g ref="char:EOLhyphen"/>ry betimes in the Morning the Army was in a Redineſs to March, But the <hi>ſmoak</hi> of the <hi>Soldiers</hi> Hutts ſet on Fire by <hi>Command made</hi> their firſt ſetting out a Little <hi>Incomodious</hi> and <hi>Difficult,</hi> but that was <hi>ſoon</hi> over For when they ſaw Clear they easily fell into their Ranks and Marched in great Order, The Right Wing of the <hi>Horſe</hi> and <hi>Dragoones</hi> with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Brigade<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Foot,</hi> the <hi>Canon</hi> and all the Kings <hi>Equi<g ref="char:EOLhyphen"/>page</hi> by <hi>Mapaſtown</hi> bridge; The left Wing with the reſerve
+<pb n="8" facs="tcp:110412:5"/>
+of the <hi>Foot</hi> and all the Baggage of the Army by the Road that led to the <hi>Bridge</hi> of <hi>Tallanſtown,</hi> and that <hi>Afternoon</hi> the <hi>Foot</hi> incamped in two Lines near <hi>Atherdee,</hi> having the River, and a long Moraſs before them. The Horſe and Dragoons for convenience of forrage, and ſhelter, were ſent to three Villages lying on the right of the <hi>Infantry,</hi> and the Brigade of <hi>Foot</hi> that made the <hi>Corp de reſerve</hi> to a<g ref="char:EOLhyphen"/>nother Village beyond them. But the next day His Ma<g ref="char:EOLhyphen"/>jeſty viſiting that part of the Army, thought the <hi>Corps de reſerve</hi> (as indeed it was) too far advanced, and therefore gave orders that they ſhould return to the Village where the Duke of <hi>Tyrconnel</hi>'s Regiment lay, and ſent the Lord <hi>Dongan</hi>'s <hi>Dragoons,</hi> with three other Battalions of <hi>Foot</hi> from the Camp, to <hi>reinforce that Poſt.</hi> He then ordered a <hi>Breſt<g ref="char:EOLhyphen"/>work to be made</hi> at the end of a <hi>narrow Cauſeway</hi> that paſſes thorough the <hi>Bogg,</hi> and a guard of 60 foot to defend it. Collonel <hi>Purcell</hi>'s and Sir <hi>James Cotters Dragoons</hi> were po<g ref="char:EOLhyphen"/>ſted on the <hi>Left</hi> at <hi>Dowdſtown</hi> and <hi>Peppardſtown</hi> to ſecure the two Bridges. The Earl <hi>of Abercorn</hi>'s Regiment of Horſe ſtood <hi>incamped</hi> at a ſmall <hi>Village</hi> between the two <hi>Lines.</hi> But the <hi>Horſes</hi> of that and Collonel <hi>John Parker</hi>'s Regiment being very much harraſsed, <hi>and no danger appear<g ref="char:EOLhyphen"/>ing from the Enemy,</hi> His Majeſty thought fit to ſend them to their <hi>Winter Quarters.</hi>
+            </p>
+            <p>The King having reaſon to believe that Mareſchal <hi>Schomberge</hi> would not eaſily quit <hi>Dundalk,</hi> called a <hi>Council of War,</hi> and propoſed the fortifying of <hi>Atherdee,</hi> to hinder his advance, and to facilitate the carrying on of the War the earlier in the Spring. Some of the chief Officers were of opinion againſt it; yet the Duke of <hi>Tyrconnell,</hi> who chiefly ſeconded the King's re<g ref="char:EOLhyphen"/>ſolutions of marching from <hi>Tredath</hi> with his Army, in order to engage the Enemy; to which, (under God) we owe all the ſucceſs we have met with, joyning in opinion with His Majeſty, the work was ſet on foot, and that place made ſo ſtrong a Frontier before the King left it, that tho <hi>Schomberge</hi> ſtayed for almoſt ten days after at <hi>Dundalk,</hi> where he loſt by Diſtemper above 1000 men, yet made no attempt upon the Party left at <hi>Atherdee</hi> under the <hi>Command</hi> of Major General <hi>Boiſelot,</hi> but was glad to make a ſafe retreat with the reviving part of his Army, leaving many ſick behind, and a number of dead Bodies unburied.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Will. Talbott.</signed>
+            </closer>
+            <pb facs="tcp:110412:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
